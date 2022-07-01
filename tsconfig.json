@@ -1,0 +1,24 @@
+{
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "dist"
+  ],
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "strict": true,
+    "removeComments": true,
+    "declaration": true,
+    "declarationDir": ".",
+    "outDir": "dist",
+    "baseUrl": ".",
+    "paths": {
+      "dcldash": [
+        "node_modules/dcldash/dist/index.d.ts"
+      ],
+    }
+  },
+  "extends": "./node_modules/decentraland-ecs/types/tsconfig.json"
+}
