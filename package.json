@@ -1,7 +1,7 @@
 {
-  "name": "sdk-library",
+  "name": "dcldash-astar",
   "version": "1.0.0",
-  "description": "Dcl SDK Library",
+  "description": "Dcl SDK Astar Library",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {

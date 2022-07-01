@@ -8,5 +8,5 @@
 
 |  Package | Description |
 |  --- | --- |
-|  [sdk-library](./sdk-library.md) |  |
+|  [dcldash-astar](./dcldash-astar.md) |  |
 
